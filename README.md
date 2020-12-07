@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository serves as a project archive from my work in CSE 232: Object-Oriented Programming II in C++ at Michigan State University as taken semester with [Dr. Bill Punch]
+This repository serves as a project archive from my work in CSE 232: Object-Oriented Programming II in C++ at Michigan State University as taken semester with Dr. Bill Punch
 
 Dr. Bill Punch granted me permission via to publish this repository:
 
