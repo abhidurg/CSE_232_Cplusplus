@@ -1,6 +1,6 @@
 /*
  * Abhiram Durgaraju
- * CSE 232.006 FS 18
+ * CSE 232
  * Project 10 - Dynamic Memory BiMap
  * proj10_bimap.h
  */
